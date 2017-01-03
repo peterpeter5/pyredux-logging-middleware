@@ -1,0 +1,4 @@
+pyredux >= 0.0.5
+socketclusterclient
+nose
+pyrsistent
